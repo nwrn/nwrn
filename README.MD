@@ -6,7 +6,7 @@
 
 
 ```	
-public static void Newren{
+public static Github Newren{
 	return("
 	Aqui é meu laboratório, 
 	onde coloco meus estudos e minhas maluquices também, 
