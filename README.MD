@@ -6,7 +6,7 @@
 
 
 ```	
-public static Github Newren{
+public Github perfil( Newren ){
 	return("
 	Aqui é meu laboratório, 
 	onde coloco meus estudos e minhas maluquices também, 
@@ -14,7 +14,5 @@ public static Github Newren{
 ```
 
 
-
-[![Newren stats](https://github-readme-stats.vercel.app/api?username=nwrn)](https://github.com/nwrn/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwrn)](https://github.com/nwrn/)
+[![Newren stats](https://github-readme-stats.vercel.app/api?username=nwrn)](https://github.com/nwrn/)
