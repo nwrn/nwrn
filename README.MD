@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" width=350 height=500/>
+<img src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" width=300 height=400/>
 
 
 ## Bem vindx ao meu Github!
