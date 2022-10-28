@@ -13,7 +13,9 @@ public Github perfil( Newren ){
 	fique à vontade para fuçar, clonar e alterar qualquer coisa. ")}
 ```
 
+[![Newren stats](https://github-readme-stats.vercel.app/api?username=nwrn&show_icons=true&theme=dracula)](https://github.com/nwrn/)
+
+
 [![@nwrn's Holopin board](https://holopin.me/nwrn)](https://holopin.io/@nwrn)
 
-[![Newren stats](https://github-readme-stats.vercel.app/api?username=nwrn&show_icons=true&theme=dracula)](https://github.com/nwrn/)
 
