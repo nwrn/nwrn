@@ -6,9 +6,9 @@ public Github perfil( Newren ){
 	onde coloco meus estudos e minhas maluquices também, 
 	fique à vontade para fuçar, clonar e alterar qualquer coisa. ");}
 ```
-
 Sou dev back-end Java com Spring e bancos como MySQL e OracleDB, atualmente no terceiro semestre de Análise e Desenvolvimento de Sistemas na FIAP.
-Meu foco aqui é publicar meus projetos, participar da comunidade Open Source e registrar meu crescimento como programador.
+Meu foco aqui é publicar meus projetos, participar da comunidade Open Source e registrar meu crescimento como programador
+[![@nwrn's Holopin board](https://holopin.me/nwrn)](https://holopin.io/@nwrn)
 
 #### Projeto em destaque:
 ## ReabNext - O próximo passo da reabilitação.
@@ -18,5 +18,3 @@ Link da Organização da equipe de desenvolvimento.
 Estou responsável pelo back-end da aplicação e arquitetura/infraestrutura cloud.
 Você pode conferir e acompanhar o back-end do sistema no seguinte repositório: 
 https://github.com/xBrokenBrainx/ReabNEXT-API
-
-[![@nwrn's Holopin board](https://holopin.me/nwrn)](https://holopin.io/@nwrn)
