@@ -1,5 +1,4 @@
-<img src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp" width=300 height=400/>
-
+[![newren's GitHub | Stats](https://stats.quine.sh/newren/github?theme=dark)]
 
 ## Bem vindx ao meu Github!
 
