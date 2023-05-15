@@ -1,4 +1,4 @@
-[![newren's GitHub | Stats](https://stats.quine.sh/newren/github?theme=dark)]
+![newren's GitHub | Stats](https://stats.quine.sh/newren/github?theme=dark)
 
 ## Bem vindx ao meu Github!
 
